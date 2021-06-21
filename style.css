@@ -94,7 +94,7 @@
       -------------------------------------------------------------- */
       
       .macbook .viewport {
-        transition: background-position 5s ease;
+        transition: background-position 8s ease;
         background-position: 0 0;
         background-size: 100% auto;
         overflow: hidden;
